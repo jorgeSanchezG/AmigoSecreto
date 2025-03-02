@@ -1,10 +1,10 @@
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
+    --color-tertiary: #fe652b;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-text: #FFFFFF;
     --color-white: #FFFFFF;
 }
 
@@ -119,6 +119,7 @@ button {
     background-color: var(--color-tertiary);
     color: var(--color-text);
     border-radius: 0 25px 25px 0;
+    
 }
 
 .button-add:hover {
